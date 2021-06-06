@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/MAHJOUR/Downloads/FilmApplication.zip"/>
+	<classpathentry kind="lib" path="C:/Users/MAHJOUR/Desktop/2ITE/nouha/FilmApplication/src/filmapplication/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MAHJOUR/Desktop/2ITE/nouha/FilmApplication/src/filmapplication/xmleditorkit.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
